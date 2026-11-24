@@ -34,7 +34,7 @@ With some spare parts from upgrading my gaming PC, I built a mini PC node and in
 - Configured the physical network interface through `vmbr0`.  
     
 - Access Proxmox through your browser at:  
-    [[https://X.X.X.X:8006](https://x.x.x.x:8006/)
+    [https://X.X.X.X:8006](https://x.x.x.x:8006/)
 
 ![Pasted image 20261120184436.png]20261120184436.png(app://4eb01deca2d0827ec1e6335dcef9b5ff45bd/D:/Cybersecurity/Cybersecurity/Proxmox%20Homelab/Pasted%20image%2020261120184436.png?1795218276253)
 
